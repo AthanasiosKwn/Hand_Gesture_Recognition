@@ -1,6 +1,6 @@
 # Hand_Gesture_Recognition
 Hand Gesture Recognition Using Motion Energy Images - Dynamic Time Warping (DTW).
-![MEI_No_Seq4](https://github.com/user-attachments/assets/bd06f16d-e8c4-46eb-9516-9b5ab7f54258)
+
 
 ![image](https://github.com/user-attachments/assets/024c5467-3cdd-4702-a88e-530fd4879a21)
 
